@@ -1,2 +1,2 @@
-# test
-mytest
+﻿项目中 app 为你自己的moudle
+zxing为 核心库，该库包含最底层core库。 整个项目不需要集成任何远程仓库。让你一目了然。
